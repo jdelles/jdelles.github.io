@@ -1,3 +1,5 @@
 # jdelles.github.io
-Repo for my portfolio. 
-Building from scratch with bootstrap to get a better grip on the framework. 
+
+20210426 - Launched basic site with my profile info completed on github pages
+20210426 - Using startboostratp theme to get a shell launched
+20210326 - Created repo for my portfolio on github pages
